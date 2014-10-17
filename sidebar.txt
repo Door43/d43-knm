@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[knm:home|Door43 (knm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-knm|d43-knm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-knm/archive/master.zip|d43-knm.zip]]
+
+**Recent Changes**
+{{changes>ns = knm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/knm|Ethnologue data]]
+
